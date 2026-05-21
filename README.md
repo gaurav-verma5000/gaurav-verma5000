@@ -46,21 +46,6 @@ B.Tech CSE Student | AI/ML Enthusiast | Full Stack Developer
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 AI Disaster Alert System
-AI-powered disaster response and resource management platform.
-
-### 🔹 Home Automation System
-Smart automation using Bluetooth and gesture control.
-
-### 🔹 Emotion-Aware Study Assistant
-AI-based learning assistant that detects user emotions.
-
----
-
-## 📫 Connect With Me
-
 - LinkedIn: https://linkedin.com/in/your-link
 - Email: gv603987@gmail.com
 
