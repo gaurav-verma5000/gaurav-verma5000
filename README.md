@@ -1,16 +1,69 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Gaurav Verma</h1>
 
-<!--
-**gaurav-verma5000/gaurav-verma5000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+B.Tech CSE Student | AI/ML Enthusiast | Full Stack Developer
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 B.Tech CSE (AI & ML) Student at LPU
+- 💻 Passionate about AI, Web Development & Problem Solving
+- 🌱 Currently learning Full Stack Development and DSA
+- ⚡ Building Real-World AI Projects
+- 🎯 Goal: Crack Top MNC Internship & Placement
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- C++
+- Java
+- Python
+- JavaScript
+
+### Frontend
+- HTML
+- CSS
+- React.js
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+- MySQL
+
+### Tools & Platforms
+- Git
+- GitHub
+- Firebase
+- VS Code
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 AI Disaster Alert System
+AI-powered disaster response and resource management platform.
+
+### 🔹 Home Automation System
+Smart automation using Bluetooth and gesture control.
+
+### 🔹 Emotion-Aware Study Assistant
+AI-based learning assistant that detects user emotions.
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/your-link
+- Email: gv603987@gmail.com
+
+---
+
+⭐ Consistency is more important than perfection.
